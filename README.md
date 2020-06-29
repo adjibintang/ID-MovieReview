@@ -6,11 +6,11 @@ Korpus ini merupakan korpus tweet ulasan film yang menggunakan bahasa Indonesia.
 # Format Data
 Kedua file menggunakan encoding UTF-8 karena selain menyimpan data teks, kedua file ini juga menyimpan data emoji.
 
-File movieReview.csv merupakan file csv yang menyimpan data ulasan film dengan 2 label yaitu : 
+File movieReview.csv merupakan file csv yang menyimpan 1100 data tweet ulasan film dengan 2 label yaitu : 
 <br> y => tweet ulasan film.
 <br> n => tweet bukan ulasan film.
   
-File movieSentiment.csv merupakan file csv yang menyimpan data sentimen ulasan film dengan 2 label yaitu :
+File movieSentiment.csv merupakan file csv yang menyimpan 440 data tweet sentimen ulasan film dengan 2 label yaitu :
 <br> p => tweet sentiment positif.
 <br> n => tweet sentiment negatif.
  
